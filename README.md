@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## The Plant database 
 
-Things you may want to cover:
+This is a database for The Hacking Project's exercize Plant made by Marie-Charlotte Le Morvan. The project is a small database with assemblies and parts with a N-N connexion.
 
-* Ruby version
 
-* System dependencies
+It is made of 2 models:
 
-* Configuration
+* Assembly
+* Part
 
-* Database creation
 
-* Database initialization
+To run `git clone`then `bundle install` and `rails db:migrate`
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
